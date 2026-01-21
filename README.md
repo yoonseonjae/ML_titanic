@@ -7,9 +7,16 @@
 - **모델**: PyTorch 로지스틱 회귀 vs scikit-learn RandomForest
 - **결과**: 4가지 조합의 검증 정확도와 학습곡선(Train/Val loss) 비교
 
+## 슬라이드 스크린샷
+![슬라이드1](ppt/슬라이드1.PNG)
+![슬라이드2](ppt/슬라이드2.PNG)
+![슬라이드3](ppt/슬라이드3.PNG)
+![슬라이드4](ppt/슬라이드4.PNG)
+![슬라이드5](ppt/슬라이드5.PNG)
+![슬라이드6](ppt/슬라이드6.PNG)
+
 ## 파일 구조
 - `model_compare_pytorch_sklearn.ipynb` : 전처리 2종 × 모델 2종 비교 노트북
-- `베이스라인_코드.ipynb` : 기본 베이스라인 노트북
 - `train.csv`, `test.csv` : 데이터
 - `submission.csv` : 예측 결과 예시 파일
 
